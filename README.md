@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌹🦦🌹&fontAlign=70)
-<div align="center"> 
-  Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000c&lines=Hi+there🙋‍♀️I'm+SuYun🦦&font=Wellfleet&size=30)](https://git.io/typing-svg)
 
 
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center"> 
+  Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
+</div>
 
 Here are some ideas to get you started:
 
