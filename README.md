@@ -1,5 +1,9 @@
-### Hi there🌹 Welcome to SuYun's Page 🦦
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi✏️💻&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌹🦦🌹&fontAlign=70)
+<div align="center"> 
+  Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
+</div>
+
+
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
