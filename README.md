@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000c&lines=Hi+there🙋‍♀️I'm+SuYun🦦&font=Wellfleet&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=Hi+there🙋‍♀️I'm+SuYun🦦&font=Wellfleet&size=30)](https://git.io/typing-svg)
 
 
 <!--
