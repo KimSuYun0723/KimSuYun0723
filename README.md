@@ -6,10 +6,10 @@
 ****
 
 <div align="center">
-  <p style="font-size: 20px; font-weight: bold;">🔭 I’m fully passionate about NLP & Computational Linguistics 🔭</p>
-  <p style="font-size: 20px;">🌱 I’m currently doing my research works in NLP field 🌱</p>
-  <p style="font-size: 20px;">😄 Profile is here: <a href="https://www.linkedin.com/in/suyun-kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄</p>
-  <p style="font-size: 20px;">📫 How to reach me: suyunkim0723@gmail.com 📫</p>
+  <p style="font-size: 20px; font-weight: bold;"> I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭</p>
+  <p style="font-size: 20px;"> I’m currently doing 🌱 my research works in NLP field 🌱</p>
+  <p style="font-size: 20px;"> Profile is here: 😄 <a href="https://www.linkedin.com/in/suyun-kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄</p>
+  <p style="font-size: 20px;"> How to reach me: 📫 suyunkim0723@gmail.com 📫</p>
 </div>
 
 
