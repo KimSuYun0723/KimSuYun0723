@@ -3,10 +3,10 @@
 
   
 <div align="center"> 
-  - 🔭 I’m fully passionate aboout NLP & Computational Linguistics     
-  - 🌱 I’m currently doing my research works in NLP field     
-  - 😄 Profile is here: [LinkedIn](www.linkedin.com/in/suyun-‍kim-b2b283297)     
-  - 📫 How to reach me: suyunkim0723@gmail.com  
+  <p>- 🔭 I’m fully passionate about NLP & Computational Linguistics 🔭</p>
+  <p>- 🌱 I’m currently doing my research works in NLP field 🌱</p>
+  <p>- 😄 Profile is here: <a href="https://www.linkedin.com/in/suyun-kim-b2b283297">LinkedIn</a> 😄</p>
+  <p>- 📫 How to reach me: suyunkim0723@gmail.com 📫</p>
 </div>
 
 <!--
