@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=999999&lines=Hi+there🙋‍♀️;Welcome+to+SuYun's+Page🦦)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
 </div>
 
 ****
@@ -18,7 +18,7 @@
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
+
 
 <div align="center"> 
   Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
