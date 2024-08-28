@@ -12,6 +12,24 @@
   <p style="font-size: 20px;">📫 How to reach me: suyunkim0723@gmail.com 📫</p>
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Example</title>
+</head>
+<body>
+    <div align="center">
+        <p style="font-size: 20px; font-family: 'Arial', sans-serif;">This is Arial font.</p>
+        <p style="font-size: 20px; font-family: 'Times New Roman', serif;">This is Times New Roman font.</p>
+        <p style="font-size: 20px; font-family: 'Courier New', monospace;">This is Courier New font.</p>
+        <p style="font-size: 20px; font-family: 'Verdana', sans-serif;">This is Verdana font.</p>
+        <p style="font-size: 20px; font-family: 'Georgia', serif;">This is Georgia font.</p>
+    </div>
+</body>
+</html>
+
 
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
