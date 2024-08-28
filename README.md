@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=Hi+there🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=30)](https://git.io/typing-svg)
 
-🔭 I’m fully passionate aboout NLP & Computational Linguistics     
-🌱 I’m currently doing my research works in NLP field     
-😄 Profile is here: [LinkedIn](www.linkedin.com/in/suyun-‍kim-b2b283297)     
-📫 How to reach me: suyunkim0723@gmail.com    
-
+  
+<div align="center"> 
+  - 🔭 I’m fully passionate aboout NLP & Computational Linguistics     
+  - 🌱 I’m currently doing my research works in NLP field     
+  - 😄 Profile is here: [LinkedIn](www.linkedin.com/in/suyun-‍kim-b2b283297)     
+  - 📫 How to reach me: suyunkim0723@gmail.com  
+</div>
 
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
