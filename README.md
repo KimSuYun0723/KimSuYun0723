@@ -30,9 +30,10 @@
 </div>
      
 ## 🔥 GITHUB STATUS
-![Github stats](https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" alt="Github stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top langs" height="200">
+</div>
      
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
