@@ -30,10 +30,8 @@
 </div>
      
 ## 🔥 GITHUB STATUS
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+![Github stats](https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight)
 
      
 <!--
@@ -41,6 +39,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 <div align="center"> 
   Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
