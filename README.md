@@ -31,7 +31,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723)
+<div align=center>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723)
+</div>
+
 
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
