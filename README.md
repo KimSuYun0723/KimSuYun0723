@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
+# 🙋‍♀️ WELCOME TO SUYUN'S PAGE 🦦
 ****
 ## 🦦 ABOUT ME
 - I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭
@@ -39,6 +39,7 @@
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
 
 <div align="center"> 
   Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
