@@ -1,4 +1,4 @@
-<div align=center><h1>🙋‍♀️ WELCOME TO SUYUN'S PAGE 🦦</h1></div>div
+<div align=center><h1>🙋‍♀️ WELCOME TO SUYUN'S PAGE 🦦</h1></div>
 
 ****
 ## 🦦 ABOUT ME
