@@ -1,21 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&lines=🙋‍♀️Welcome+to+SuYun's+Page🦦&font=Wellfleet&size=24)](https://git.io/typing-svg)
-
-
 ****
-<div align=center><h1>🦦 ABOUT ME</h1></div>
+## 🦦 ABOUT ME
+- I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭
+- I’m currently doing 🌱 my research works in NLP field 🌱
+- Profile is here: 😄 <a href="https://www.linkedin.com/in/suyun-kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄
+- How to reach me: 📫 suyunkim0723@gmail.com 📫
 
-<div align=center>
-  <p style="font-size: 20px; font-weight: bold;"> I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭</p>
-  <p style="font-size: 20px;"> I’m currently doing 🌱 my research works in NLP field 🌱</p>
-  <p style="font-size: 20px;"> Profile is here: 😄 <a href="https://www.linkedin.com/in/suyun-kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄</p>
-  <p style="font-size: 20px;"> How to reach me: 📫 suyunkim0723@gmail.com 📫</p>
-</div>
-
-<div align=center><h1>📚 STACKS</h1></div>
-
+## 📚 STACKS
 <div align=center> 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -39,7 +33,7 @@
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=scaleIn&text=✏️💻🏃‍♀️&fontalign=50)
 
 <div align="center"> 
   Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
