@@ -32,12 +32,10 @@
 ## 🔥 GITHUB STATUS
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" alt="Github stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true&theme=tokyonight" alt="Github stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top langs" /></td>
   </tr>
 </table>
-
-[![commit stats](https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true&theme=tokyonight)](https://github.com/KimSuYun0723/github-readme-stats)
 
 <!--
 **KimSuYun0723/KimSuYun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +49,13 @@
 <div align="center"> 
   Hi there 🙋‍♀️ Welcome to SuYun's Page 🦦 
 </div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" alt="Github stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top langs" /></td>
+  </tr>
+</table>
 
 Here are some ideas to get you started:
 
