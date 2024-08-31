@@ -1,6 +1,5 @@
 <div align=center><h1>🙋‍♀️ WELCOME TO SUYUN'S PAGE 🦦</h1></div>
 
-****
 ## 🦦 ABOUT ME
 - I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭
 - I’m currently doing 🌱 my research works in NLP field 🌱
