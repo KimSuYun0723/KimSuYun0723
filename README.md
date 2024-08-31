@@ -31,8 +31,8 @@
      
 ## 🔥 GITHUB STATUS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" alt="Github stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimSuYun0723&show_icons=true" alt="Github stats" style="vertical-align:top; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top langs" />
 </div>
      
 <!--
