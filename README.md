@@ -30,7 +30,7 @@
 </div>
 
 <div align=center>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuYun0723&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 
