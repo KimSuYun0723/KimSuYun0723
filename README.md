@@ -3,7 +3,7 @@
 ## 🦦 ABOUT ME
 - I’m fully passionate about 🔭 NLP & Computational Linguistics 🔭
 - I’m currently doing 🌱 my research works in NLP field 🌱
-- Profile is here: 😄 <a href="https://www.linkedin.com/in/suyun-kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄
+- Profile is here: 😄 <a href="www.linkedin.com/in/suyun-‍kim-b2b283297" style="text-decoration: none; color: #0077b5;">LinkedIn</a> 😄
 - How to reach me: 📫 suyunkim0723@gmail.com 📫
      
 ## 📚 STACKS
